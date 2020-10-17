@@ -93,6 +93,11 @@ p.subtitle {
   animation: pulse 1.25s infinite cubic-bezier(0.50, 0, 0, 1);
 }
 
+#cta {
+    animation: monitorIn 1s ease-in-out forwards; /* assign animation to monitor with 'monitorIn' as keyframe name */
+    opacity: 0;
+}
+
 @-webkit-keyframes pulse {to {box-shadow: 0 0 0 20px rgba(9, 187, 233, 0);}}
 @-moz-keyframes pulse {to {box-shadow: 0 0 0 20px rgba(9, 187, 233, 0);}}
 @-ms-keyframes pulse {to {box-shadow: 0 0 0 20px rgba(9, 187, 233, 0);}}
