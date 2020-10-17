@@ -184,7 +184,9 @@ p.subtitle {
     transition: color 0.5s;
 }
 
-
+.logo-facebook:hover {
+    color: #3b5998
+}
 
 
 
