@@ -188,6 +188,17 @@ p.subtitle {
     color: #55ACEE
 }
 
+.logo-medium:hover {
+    color: #12100e
+}
+
+.logo-youtube:hover {
+    color: #bb0000
+}
+
+.logo-linkedin:hover {
+    color: #007bb5
+}
 
 
 
