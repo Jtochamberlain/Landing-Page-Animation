@@ -56,7 +56,7 @@ body {
     }
 }
 
-img#logo {
+#logo {
     width: 130px;
     margin-bottom: 1.6em;
     animation: monitorIn 1s ease-in-out forwards; /* assign animation to monitor with 'monitorIn' as keyframe name */
