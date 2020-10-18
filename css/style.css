@@ -172,13 +172,14 @@ p.subtitle {
 
 .social-media-list {
     list-style: none;
-    animation: chatblips 0.5s ease-in-out 0.5s forwards; /* assign animation to iota with 'chatblips' as keyframe name */
+   
 }
 
 .social-media-list li {
     display: inline-block;
     margin-right: 1em;
     font-size: 180%;
+     animation: chatblips 0.5s ease-in-out 0.5s forwards; /* assign animation to iota with 'chatblips' as keyframe name */
 }
 
 .social-media-list li a {
