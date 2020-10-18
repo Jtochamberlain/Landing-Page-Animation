@@ -172,6 +172,7 @@ p.subtitle {
 
 .social-media-list {
     list-style: none;
+     animation: monitorIn 1s ease-in-out forwards; /* assign animation to monitor with 'monitorIn' as keyframe name */
 }
 
 .social-media-list li {
