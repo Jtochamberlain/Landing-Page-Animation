@@ -203,20 +203,7 @@ p.subtitle {
 
 
 
-}
-.twitter:hover {
-  color: #1da1f2;
-}
 
-}
-.twitter:hover span { 
-  background: #1da1f2;
-}
-
-
-ul li a .twitter {
-  color: #1da1f2;
-}
 ul li a:hover:nth-child(3) {
   color: #c32aa3;
 }
