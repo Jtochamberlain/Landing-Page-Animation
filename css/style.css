@@ -124,7 +124,7 @@ p.subtitle {
     z-index: 2;
 }
 
-#eth {
+#eos {
     margin-top: 9.5%;
     margin-left: 18%;
     animation: chatblips 0.5s ease-in-out 1.9s forwards; /* assign animation to eth with 'chatblips' as keyframe name */
@@ -132,7 +132,7 @@ p.subtitle {
     z-index: 2;
 }
 
-#iota {
+#eth {
     margin-top: 5%;
     margin-left: -1.5%;
     animation: chatblips 0.5s ease-in-out 0.8s forwards; /* assign animation to iota with 'chatblips' as keyframe name */
