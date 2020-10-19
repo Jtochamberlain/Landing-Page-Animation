@@ -116,7 +116,7 @@ p.subtitle {
   fill: red;
 }
 
-#dash {
+#btc {
     margin-top: -4%;
     margin-left: 9%;
     animation: chatblips 0.5s ease-in-out 2.7s forwards; /* assign animation to dash with 'chatblips' as keyframe name */
