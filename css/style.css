@@ -18,7 +18,7 @@ body {
 
 #home-container {
     display: grid;
-    grid-template-columns: 10px 1fr 10px; /* for left and right sections */
+    grid-template-columns: 10px 1fr 10px; /* for left and right sections change*/
     grid-template-rows: 10px 1fr 1fr 10px;
     grid-gap: 20px;
     height: 100vh;
